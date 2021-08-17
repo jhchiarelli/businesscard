@@ -5,11 +5,9 @@ Aplicativo para registro de cartões de visita
 ## Sobre o Autor
 Olá, sou Jorge Henrique esse é um projeto para ampliar o conhecimento usando as bibliotecas do Jetpack como desafio do bootcamp da DIO.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jorge_H._Chiarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jorge-henrique-chiarelli-399251217)](https://br.linkedin.com/in/jorge-henrique-chiarelli-399251217)  [![Gmail Badge](https://img.shields.io/badge/-jhcchiarelli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhcchiarelli@gmail.com)](mailto:jhcchiarelli@gmail.com)
+<img src="https://raw.githubusercontent.com/jhchiarelli/businesscard/master/screenshots/Screenshot_1629224135.png" width="300" />
 
-<div align="center">
-    <img src="(https://raw.githubusercontent.com/jhchiarelli/businesscard/master/screenshots/Screenshot_1629224135.png" width="400px"</img>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge_H._Chiarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jorge-henrique-chiarelli-399251217)](https://br.linkedin.com/in/jorge-henrique-chiarelli-399251217)  [![Gmail Badge](https://img.shields.io/badge/-jhcchiarelli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhcchiarelli@gmail.com)](mailto:jhcchiarelli@gmail.com)
 
 <!-- ![Screen Shot](https://raw.githubusercontent.com/jhchiarelli/businesscard/master/screenshots/Screenshot_1629224135.png) -->
 
