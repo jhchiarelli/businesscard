@@ -7,6 +7,10 @@ Olá, sou Jorge Henrique esse é um projeto para ampliar o conhecimento usando a
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge_H._Chiarelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jorge-henrique-chiarelli-399251217)](https://br.linkedin.com/in/jorge-henrique-chiarelli-399251217)  [![Gmail Badge](https://img.shields.io/badge/-jhcchiarelli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhcchiarelli@gmail.com)](mailto:jhcchiarelli@gmail.com)
 
+![Screen Shot](https://raw.githubusercontent.com/jhchiarelli/businesscard/master/screenshots/Screenshot_1629224135.png)
+
+![Screen Shot](https://raw.githubusercontent.com/jhchiarelli/businesscard/master/screenshots/Screenshot_1629224151.png)
+
 ## <br />Tecnologias utilizadas
 1. Room
 2. MVVM
